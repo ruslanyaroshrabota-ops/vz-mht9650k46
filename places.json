@@ -1,0 +1,2072 @@
+[
+ {
+  "id": 1,
+  "name": "Дом",
+  "lat": 45.4941373,
+  "lng": 12.2618901,
+  "cluster": "Местре · дом и рынок",
+  "cats": [
+   "home"
+  ],
+  "indoor": 0,
+  "price": "Оплачено",
+  "addr": "Via Bissuola, Mestre",
+  "why": "Квартира. Заезд после 15:00, выезд 3.11 до 10:00. Это материк: до Piazzale Roma автобус 24/24H ~16 мин езды.",
+  "time": "",
+  "caveat": "",
+  "pin": "",
+  "links": [],
+  "acc": "object",
+  "gq": null,
+  "status": "home",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 2,
+  "name": "RePulse · барахолка",
+  "lat": 45.4952467,
+  "lng": 12.243922,
+  "cluster": "Местре · дом и рынок",
+  "cats": [
+   "market"
+  ],
+  "indoor": 0,
+  "price": "Вход €0",
+  "addr": "Via San Girolamo, Mestre, Venezia, Italy",
+  "why": "Покопаться в винтаже и вещах для дома — без отдельной поездки за город. Ряды заявлены на Via San Girolamo и Via Caneve. Квартира и рынок находятся в Местре; после рынка можно пройти к трамваю Mestre Centro. Качество и размер конкретного выпуска заранее не гарантированы.",
+  "time": "Только 1 ноября 2026 · часы этого выпуска не подтверждены.",
+  "caveat": "08:00–19:00 в найденной карточке относятся к 4 октября. Эти часы не перенесены на ноябрь.",
+  "pin": "Метка — ориентир на Via San Girolamo; ряды рынка занимают улицы San Girolamo / Caneve, это не отдельное здание.",
+  "links": [
+   "https://live.comune.venezia.it/index.php/it/2026/10/le-citta-festa-gli-appuntamenti-dal-30-ottobre-al-5-novembre",
+   "https://www.comune.venezia.it/content/repulse-4"
+  ],
+  "acc": "area",
+  "gq": "RePulse Via San Girolamo Mestre",
+  "status": "warn",
+  "checked": null,
+  "photo": null,
+  "days": {
+   "1": {
+    "s": "only",
+    "t": "Только сегодня · часы выпуска не подтверждены"
+   },
+   "2": {
+    "s": "closed",
+    "t": "Рынка нет"
+   },
+   "3": {
+    "s": "closed",
+    "t": "Рынка нет"
+   },
+   "31": {
+    "s": "closed",
+    "t": "Рынка нет"
+   }
+  }
+ },
+ {
+  "id": 3,
+  "name": "Piazza Ferretto",
+  "lat": 45.49379,
+  "lng": 12.24138,
+  "cluster": "Местре · дом и рынок",
+  "cats": [
+   "walk",
+   "food"
+  ],
+  "indoor": 0,
+  "price": "€0",
+  "addr": "Piazza Erminio Ferretto, Mestre, Venezia, Italy",
+  "why": "Пешеходный центр Местре для короткой прогулки, еды и местной жизни. Удобнее совместить с рынком или бытовыми покупками, чем специально возвращаться сюда посреди прогулки по островной Венеции.",
+  "time": "",
+  "caveat": "",
+  "pin": "Метка обозначает объект или участок площади/парка; фактический вход может находиться сбоку.",
+  "links": [
+   "https://www.veneziaunica.it/it/cosa-fare-a-venezia/terraferma"
+  ],
+  "acc": "area",
+  "gq": "Piazza Erminio Ferretto Mestre",
+  "status": "free",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 4,
+  "name": "Bissuola Esiodo · автобус к Венеции",
+  "lat": 45.4935,
+  "lng": 12.2641,
+  "cluster": "Местре · дом и рынок",
+  "cats": [
+   "transport"
+  ],
+  "indoor": 0,
+  "price": "€3 / двоих",
+  "addr": "Bissuola Esiodo, Mestre, Venezia, Italy",
+  "why": "Автобусы 24 / 24H к Piazzale Roma; именно поездка обычно занимает около 16 минут. Выбирайте направление Venezia / Piazzale Roma, а не Tosatto или Rielta. На разных сторонах улицы одинаковое название остановки. От двери до исторического центра дольше: подход и ожидание добавляются.",
+  "time": "Воскресенье и праздник: рейсы реже; проверить отправление перед выходом.",
+  "caveat": "Старые 09:12 / 09:17 из переписки не являются вашим расписанием. Выход из квартиры — 09:30, следующий рейс смотрите по ссылке.",
+  "pin": "Метка — район пересечения Via Bissuola / Via Esiodo; точную сторону остановки в направлении Venezia сверяйте по указателям.",
+  "links": [
+   "https://andreafrison.com/app/mini-venice/en/lines/bus/24/",
+   "https://andreafrison.com/app/mini-venice/en/lines/bus/24h/",
+   "https://actv.avmspa.it/it/content/urbano-venezia-0"
+  ],
+  "acc": "approx",
+  "gq": "Bissuola Esiodo bus stop Mestre",
+  "status": "warn",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 5,
+  "name": "Mestre Centro · трамвай T1",
+  "lat": 45.4934714,
+  "lng": 12.2460979,
+  "cluster": "Местре · дом и рынок",
+  "cats": [
+   "transport"
+  ],
+  "indoor": 0,
+  "price": "€3 / двоих",
+  "addr": "Mestre Centro Piazzale Cialdini Venezia Italy",
+  "why": "Точка пересадки после рынка и прогулки по центру Местре. На табло нужен T1 в сторону Venezia / Piazzale Roma. Городской билет €1,50 с человека, без водных линий. Время ближайшего трамвая проверяется в навигации.",
+  "time": "",
+  "caveat": "",
+  "pin": "Метка обозначает объект или участок площади/парка; фактический вход может находиться сбоку.",
+  "links": [
+   "https://actv.avmspa.it/it/content/urbano-venezia-0"
+  ],
+  "acc": "area",
+  "gq": "Mestre Centro tram stop",
+  "status": "free",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 6,
+  "name": "Parco Alfredo Albanese / Bissuola",
+  "lat": 45.49915,
+  "lng": 12.26248,
+  "cluster": "Местре · дом и рынок",
+  "cats": [
+   "nature"
+  ],
+  "indoor": 0,
+  "price": "€0",
+  "addr": "Parco Alfredo Albanese, Mestre, Venezia, Italy",
+  "why": "Зелень и короткая прогулка рядом с квартирой. Это парк у дома, а не отдельная главная достопримечательность. Подходит, когда не хочется ехать на остров сразу после завтрака.",
+  "time": "",
+  "caveat": "Ориентируйтесь на открытые входы и таблички парка; не рассчитывайте на ночной доступ.",
+  "pin": "Метка обозначает объект или участок площади/парка; фактический вход может находиться сбоку.",
+  "links": [
+   "https://www.veneziaunica.it/it/cosa-fare-a-venezia/giardini-parchi-oasi-naturali/parco-alfredo-albanese"
+  ],
+  "acc": "area",
+  "gq": "Parco Alfredo Albanese Mestre",
+  "status": "free",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 7,
+  "name": "Parco San Giuliano",
+  "lat": 45.4743271,
+  "lng": 12.2760376,
+  "cluster": "Местре · дом и рынок",
+  "cats": [
+   "nature"
+  ],
+  "indoor": 0,
+  "price": "Прогулка €0",
+  "addr": "Parco San Giuliano, Mestre, Venezia, Italy",
+  "why": "Большой парк у лагуны; вариант для открытого пространства и велопрогулки. Это отдельный материковый выход. На ветер и дождь место менее удачное. Велопрокат и парковочные зоны проверяются в RideMovi; конкретную цену приложения здесь не обещаем.",
+  "time": "",
+  "caveat": "Не соединяйте пешком с островными районами ради экономии: дорога через мост — не короткая прогулка. Прокат не включён в бесплатные занятия.",
+  "pin": "Метка обозначает объект или участок площади/парка; фактический вход может находиться сбоку.",
+  "links": [
+   "https://www.veneziaunica.it/it/cosa-fare-a-venezia/giardini-parchi-oasi-naturali/parco-san-giuliano"
+  ],
+  "acc": "area",
+  "gq": "Parco San Giuliano Mestre",
+  "status": "free",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 8,
+  "name": "Forte Marghera",
+  "lat": 45.47511,
+  "lng": 12.26196,
+  "cluster": "Местре · дом и рынок",
+  "cats": [
+   "hidden"
+  ],
+  "indoor": 0,
+  "price": "Доступ уточнить",
+  "addr": "Forte Marghera, Mestre, Venezia, Italy",
+  "why": "Старые военные корпуса, вода и зелень — резерв под интерес к промышленным местам. Интересна территория бывшего форта. Это не разрешение ходить в закрытые здания. Летние бары и события не переносим на ноябрь.",
+  "time": "Доступ территории и отдельных корпусов на ваши даты не подтверждён.",
+  "caveat": "Не ехать специально без свежей проверки. Часть объектов может быть закрыта или на ремонте.",
+  "pin": "Метка обозначает объект или участок площади/парка; фактический вход может находиться сбоку.",
+  "links": [
+   "https://www.spottedbylocals.com/venice/forte-marghera/"
+  ],
+  "acc": "area",
+  "gq": "Forte Marghera",
+  "status": "warn",
+  "checked": null,
+  "photo": null,
+  "days": {
+   "1": {
+    "s": "warn",
+    "t": "Доступ не подтверждён"
+   },
+   "2": {
+    "s": "warn",
+    "t": "Доступ не подтверждён"
+   }
+  }
+ },
+ {
+  "id": 9,
+  "name": "Piazzale Roma · главный узел",
+  "lat": 45.43794,
+  "lng": 12.31877,
+  "cluster": "Запад · вход в Венецию",
+  "cats": [
+   "transport"
+  ],
+  "indoor": 0,
+  "price": "Площадь €0",
+  "addr": "Piazzale Roma, Venezia, Italy",
+  "why": "Здесь заканчивается автобус из Местре, начинаются пешие прогулки и лодки. Автобусная площадка и причалы — разные зоны. Для бесплатной DE нужен водный причал D; для любой другой линии смотрите её номер и табло.",
+  "time": "DE работает бесплатно только 31 октября — 2 ноября.",
+  "caveat": "",
+  "pin": "Метка обозначает объект или участок площади/парка; фактический вход может находиться сбоку.",
+  "links": [
+   "https://muoversi.venezia.it/it/content/commemorazione-dei-defunti-servizi-gratuiti-e-fermata-straordinaria-di-linea-13",
+   "https://andreafrison.com/app/mini-venice/en/lines/bus/24h/"
+  ],
+  "acc": "area",
+  "gq": "Piazzale Roma Venezia",
+  "status": "ok",
+  "checked": null,
+  "photo": null,
+  "days": {
+   "1": {
+    "s": "free",
+    "t": "DE с причала D: :09 :29 :49, 09:09–16:49"
+   },
+   "2": {
+    "s": "free",
+    "t": "DE с причала D: :09 :29 :49, 09:09–16:49"
+   },
+   "31": {
+    "s": "free",
+    "t": "DE с причала D: :09 :29 :49, 09:09–16:49"
+   }
+  }
+ },
+ {
+  "id": 10,
+  "name": "Bacareto da Lele",
+  "lat": 45.43755,
+  "lng": 12.32126,
+  "cluster": "Запад · вход в Венецию",
+  "cats": [
+   "food"
+  ],
+  "indoor": 1,
+  "price": "План: €8–12",
+  "addr": "Bacareto da Lele, Santa Croce 184, Venezia, Italy",
+  "why": "Мини-бутерброды и напитки у стойки возле входа в город. Сумма — наш ориентир на небольшой перекус вдвоём, не фиксированный набор. Очень маленькое место без столиков: не подходит для долгого отдыха ног.",
+  "time": "Пн–пт 06:00–20:00 · сб 06:00–14:00 · вс закрыто.",
+  "caveat": "1 ноября не рассчитывать. 2 ноября — обычный понедельничный график, без отдельной гарантии праздничных изменений.",
+  "pin": "",
+  "links": [
+   "https://bacaretodalele.it/",
+   "https://www.tripadvisor.com/Restaurant_Review-g187870-d1900957-Reviews-Bacareto_da_Lele-Venice_Veneto.html"
+  ],
+  "acc": "object",
+  "gq": "Bacareto da Lele Venezia",
+  "status": "ok",
+  "checked": null,
+  "photo": null,
+  "days": {
+   "1": {
+    "s": "closed",
+    "t": "Вс закрыто"
+   },
+   "2": {
+    "s": "open",
+    "t": "06:00–20:00"
+   },
+   "3": {
+    "s": "open",
+    "t": "06:00–20:00"
+   }
+  }
+ },
+ {
+  "id": 11,
+  "name": "Scuola Grande di San Rocco",
+  "lat": 45.43653,
+  "lng": 12.3253,
+  "cluster": "Запад · вход в Венецию",
+  "cats": [
+   "art"
+  ],
+  "indoor": 1,
+  "price": "€24 / двоих",
+  "addr": "Scuola Grande di San Rocco, San Polo 3052, Venezia, Italy",
+  "why": "Один насыщенный интерьер с живописью Тинторетто вместо долгого обхода музеев. Платная альтернатива, не обязательство. Билеты в кассе; в основной бюджет бесплатных занятий не включены.",
+  "time": "09:30–17:30 · касса до 17:00 · 3 ноября закрыто.",
+  "caveat": "",
+  "pin": "",
+  "links": [
+   "https://www.musa.guide/it/discover/venice/scuola-grande-di-san-rocco"
+  ],
+  "acc": "object",
+  "gq": "Scuola Grande di San Rocco",
+  "status": "ok",
+  "checked": null,
+  "photo": null,
+  "days": {
+   "3": {
+    "s": "closed",
+    "t": "3.11 закрыто"
+   },
+   "1": {
+    "s": "open",
+    "t": "09:30–17:30, касса до 17:00"
+   },
+   "2": {
+    "s": "open",
+    "t": "09:30–17:30, касса до 17:00"
+   }
+  }
+ },
+ {
+  "id": 12,
+  "name": "San Pantalon · расписной потолок",
+  "lat": 45.43572,
+  "lng": 12.32474,
+  "cluster": "Запад · вход в Венецию",
+  "cats": [
+   "art",
+   "free"
+  ],
+  "indoor": 1,
+  "price": "Вход €0",
+  "addr": "Chiesa di San Pantalon, Venezia, Italy",
+  "why": "Скромный фасад и огромная потолочная живопись внутри. Короткий заход, когда дверь открыта. Можно спокойно сесть и посмотреть на роспись; пожертвование добровольное.",
+  "time": "Надёжного расписания на ваши даты нет.",
+  "caveat": "Есть отзыв августа 2026: церковь оказалась закрыта даже в указанные часы. Только по пути; службы не прерывать.",
+  "pin": "",
+  "links": [
+   "https://www.tripadvisor.com/Attraction_Review-g187870-d866623-Reviews-Church_of_San_Pantalon-Venice_Veneto.html"
+  ],
+  "acc": "object",
+  "gq": "Chiesa di San Pantalon Venezia",
+  "status": "ok",
+  "checked": null,
+  "photo": null,
+  "days": {
+   "1": {
+    "s": "warn",
+    "t": "Часы не подтверждены"
+   },
+   "2": {
+    "s": "warn",
+    "t": "Часы не подтверждены"
+   }
+  }
+ },
+ {
+  "id": 13,
+  "name": "Tiberiade · благотворительный секонд-хенд",
+  "lat": 45.44026985167025,
+  "lng": 12.330012917518616,
+  "cluster": "Запад · вход в Венецию",
+  "cats": [
+   "market"
+  ],
+  "indoor": 1,
+  "price": "Вход €0",
+  "addr": "Charity Shop Tiberiade, Campiello del Spezier 2035, Venezia, Italy",
+  "why": "Посуда, небольшие вещи для дома и винтаж из пожертвований. Нужен первый магазин у San Stae, Santa Croce 2035. Это северная часть района, а не соседняя дверь с Lele. Покупки отдельно, ассортимент меняется.",
+  "time": "По каталогам: пн 16:00–19:00 · вс закрыто.",
+  "caveat": "Небольшая волонтёрская лавка: работу именно 2 ноября не подтвердили. Не делать ради неё отдельную большую петлю.",
+  "pin": "",
+  "links": [
+   "https://dispensavintage.it/products/charity-shop-t-i-b-e-r-i-a-d-e-venezia"
+  ],
+  "acc": "object",
+  "gq": "Charity Shop Tiberiade Venezia",
+  "status": "ok",
+  "checked": null,
+  "photo": null,
+  "days": {
+   "1": {
+    "s": "closed",
+    "t": "Вс закрыто"
+   },
+   "2": {
+    "s": "warn",
+    "t": "Пн 16:00–19:00 (по каталогам)"
+   }
+  }
+ },
+ {
+  "id": 14,
+  "name": "Ponte delle Guglie → Ghetto Nuovo",
+  "lat": 45.44533,
+  "lng": 12.32689,
+  "cluster": "Каннареджо · каналы и театр",
+  "cats": [
+   "walk"
+  ],
+  "indoor": 0,
+  "price": "Улица €0",
+  "addr": "Campo del Ghetto Nuovo, Venezia, Italy",
+  "why": "Мост, жилые каналы и небольшие площади северо-запада города. Гуляем по общественным улицам. Входы в музеи и синагоги не включены в бесплатную прогулку.",
+  "time": "",
+  "caveat": "",
+  "pin": "Метка обозначает объект или участок площади/парка; фактический вход может находиться сбоку.",
+  "links": [
+   "https://naturallyepicurean.substack.com/p/a-photographers-guide-to-the-city"
+  ],
+  "acc": "area",
+  "gq": "Campo del Ghetto Nuovo",
+  "status": "free",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 15,
+  "name": "Despar Teatro Italia",
+  "lat": 45.44421,
+  "lng": 12.32959,
+  "cluster": "Каннареджо · каналы и театр",
+  "cats": [
+   "food",
+   "hidden"
+  ],
+  "indoor": 1,
+  "price": "Вход €0",
+  "addr": "Despar Teatro Italia, Campiello de l’Anconeta 1939-1952, Venezia, Italy",
+  "why": "Купить продукты в бывшем театре с расписным потолком. Тот самый магазин из вашего ролика. Полезная остановка за едой плюс красивый интерьер; покупки по обычному чеку, не экскурсия.",
+  "time": "Каталоги: обычно 08:00–21:00; на 1 ноября записи противоречат друг другу.",
+  "caveat": "Один каталог указывает воскресенье закрытым, другой — открытым. Не полагаться на него как на единственный источник еды в праздник.",
+  "pin": "",
+  "links": [
+   "https://www.corner.inc/place/poZvwYe7pXY9",
+   "https://www.cylex-italia.it/venezia/supermercato-despar-teatro-italia-15794832.html",
+   "https://trova-aperto.it/venezia/supermercato-despar-teatro-italia-2573706"
+  ],
+  "acc": "object",
+  "gq": "Despar Teatro Italia Venezia",
+  "status": "warn",
+  "checked": null,
+  "photo": null,
+  "days": {
+   "1": {
+    "s": "warn",
+    "t": "Праздник: источники противоречат"
+   },
+   "2": {
+    "s": "open",
+    "t": "обычно 08:00–21:00"
+   }
+  }
+ },
+ {
+  "id": 16,
+  "name": "Misericordia и Ormesini",
+  "lat": 45.44319,
+  "lng": 12.33434,
+  "cluster": "Каннареджо · каналы и театр",
+  "cats": [
+   "walk",
+   "water"
+  ],
+  "indoor": 0,
+  "price": "€0",
+  "addr": "Fondamenta della Misericordia, Venezia, Italy",
+  "why": "Длинные набережные: гулять вдоль воды, смотреть лодки и заглянуть за закусками. Это район для свободной прогулки, не одна дверь. Вечером может быть оживлённо; отсутствие людей не обещаем.",
+  "time": "",
+  "caveat": "",
+  "pin": "Метка обозначает объект или участок площади/парка; фактический вход может находиться сбоку.",
+  "links": [
+   "https://naturallyepicurean.substack.com/p/a-photographers-guide-to-the-city"
+  ],
+  "acc": "area",
+  "gq": "Fondamenta della Misericordia",
+  "status": "free",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 17,
+  "name": "Bacareto da ea Neni",
+  "lat": 45.44549,
+  "lng": 12.32873,
+  "cluster": "Каннареджо · каналы и театр",
+  "cats": [
+   "food"
+  ],
+  "indoor": 1,
+  "price": "План: €18–25",
+  "addr": "Bacareto da ea Neni, Fondamenta degli Ormesini 2737, Venezia, Italy",
+  "why": "Одна остановка на чиккетти вместо дорогого ресторанного обеда. Плановая сумма на двоих зависит от количества закусок. В карточке заведения spritz указан по €3,50; столиков и тепла для долгого отдыха не обещаем.",
+  "time": "Понедельник закрыто. Часы остальных дней расходятся в каталогах: 11:00–21:00 либо 11:00–13:30 / 18:00–22:30. Уточнить перед заходом",
+  "caveat": "Это обычные часы Tripadvisor, не специальное подтверждение на 1 ноября. Прежнее 18:00–22:30 заменено актуальной карточкой.",
+  "pin": "Метка — ориентир у соседнего Birreria Zanon (№2735). Neni находится рядом, №2737; перед входом проверь вывеску.",
+  "links": [
+   "https://www.tripadvisor.it/Restaurant_Review-g187870-d12994798-Reviews-Bacareto_da_ea_Neni-Venice_Veneto.html"
+  ],
+  "acc": "approx",
+  "gq": "Bacareto da ea Neni Venezia",
+  "status": "warn",
+  "checked": null,
+  "photo": null,
+  "days": {
+   "2": {
+    "s": "closed",
+    "t": "Пн закрыто"
+   },
+   "1": {
+    "s": "warn",
+    "t": "11:00–21:00 или с перерывом — уточнить"
+   }
+  }
+ },
+ {
+  "id": 18,
+  "name": "Ponte Chiodo",
+  "lat": 45.44284,
+  "lng": 12.33472,
+  "cluster": "Каннареджо · каналы и театр",
+  "cats": [
+   "hidden",
+   "photo"
+  ],
+  "indoor": 0,
+  "price": "Осмотр €0",
+  "addr": "Ponte Chiodo, Venezia, Italy",
+  "why": "Маленький мост без привычных перил — необычная деталь у тихого канала. Рассматривать и фотографировать с набережной. Не воспринимать мост как приглашение пройти к частному дому.",
+  "time": "",
+  "caveat": "Не заходить за ограждение или к закрытым дверям; рядом нет защиты от падения в воду.",
+  "pin": "",
+  "links": [
+   "https://naturallyepicurean.substack.com/p/a-photographers-guide-to-the-city"
+  ],
+  "acc": "object",
+  "gq": "Ponte Chiodo Venezia",
+  "status": "free",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 19,
+  "name": "Palazzo Soranzo Van Axel",
+  "lat": 45.4394911,
+  "lng": 12.339658,
+  "cluster": "Риальто и Мираколи",
+  "cats": [
+   "art",
+   "free"
+  ],
+  "indoor": 1,
+  "price": "Вход €0",
+  "addr": "Palazzo Soranzo Van Axel, Cannaregio 6099, Venezia, Italy",
+  "why": "Дворы, каменные лестницы и небольшая порция современного искусства. На ваши даты открыта выставка Su Xiaobai’s Alchemical Universe. Доступ по выставочному маршруту, не ко всем комнатам частного дворца.",
+  "time": "10:00–18:00 · вторник закрыто · выставка до 22 ноября.",
+  "caveat": "1–2 ноября подходят; 3 ноября, во вторник, не переносить. При толпе можно посмотреть меньше залов.",
+  "pin": "",
+  "links": [
+   "https://www.lavocedivenezia.it/palazzo-soranzo-van-axel-ingresso-gratuito/",
+   "https://www.pearllam.com/wp-content/uploads/2026/05/Su-Xiaobai-61st-Venice-Biennale-Announcement-EN-20260424_F.pdf"
+  ],
+  "acc": "object",
+  "gq": "Palazzo Soranzo Van Axel",
+  "status": "ok",
+  "checked": null,
+  "photo": null,
+  "days": {
+   "3": {
+    "s": "closed",
+    "t": "Вт закрыто"
+   },
+   "1": {
+    "s": "free",
+    "t": "10:00–18:00 · бесплатно"
+   },
+   "2": {
+    "s": "free",
+    "t": "10:00–18:00 · бесплатно"
+   }
+  }
+ },
+ {
+  "id": 20,
+  "name": "Libreria Miracoli",
+  "lat": 45.439914156613504,
+  "lng": 12.339180707931519,
+  "cluster": "Риальто и Мираколи",
+  "cats": [
+   "market"
+  ],
+  "indoor": 1,
+  "price": "Вход €0",
+  "addr": "Libreria Miracoli, Campo Santa Maria Nova 6062, Venezia, Italy",
+  "why": "Старые книги, открытки и небольшие печатные вещи для дома. Короткий заход рядом с дворцом и церковью Miracoli. Ассортимент и цены зависят от находки.",
+  "time": "Часы на ваши даты не подтверждены; зайти только по пути.",
+  "caveat": "",
+  "pin": "",
+  "links": [
+   "https://www.awellreadwanderer.com/best-venice-bookstores/"
+  ],
+  "acc": "object",
+  "gq": "Libreria Miracoli Venezia",
+  "status": "warn",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 21,
+  "name": "Calle Varisco",
+  "lat": 45.441135,
+  "lng": 12.339281,
+  "cluster": "Риальто и Мираколи",
+  "cats": [
+   "hidden"
+  ],
+  "indoor": 0,
+  "price": "€0",
+  "addr": "Calle Varisco, Venezia, Italy",
+  "why": "Найти очень узкий переулок и пройти по одному до канала. Это маленькое открытие, а не отдельное занятие на час. В отзывах прямо советуют заходить, только когда рядом.",
+  "time": "",
+  "caveat": "Тупик, а не проход в соседний квартал. Не продолжать путь через частные двери.",
+  "pin": "",
+  "links": [
+   "https://www.tripadvisor.com/Attraction_Review-g187870-d12456414-Reviews-Calle_Varisco-Venice_Veneto.html"
+  ],
+  "acc": "object",
+  "gq": "Calle Varisco Venezia",
+  "status": "free",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 22,
+  "name": "Campiello Remer",
+  "lat": 45.4394,
+  "lng": 12.33675,
+  "cluster": "Риальто и Мираколи",
+  "cats": [
+   "hidden",
+   "photo"
+  ],
+  "indoor": 0,
+  "price": "Двор €0",
+  "addr": "Campiello Remer, Venezia, Italy",
+  "why": "Выйти из переулка на маленькую площадку у Гранд-канала. Ищите сам двор, не столик в одноимённом заведении. Каменная лестница, фасады и вид на проходящие лодки.",
+  "time": "",
+  "caveat": "Вечером бывает людно; закрытый проход или рабочую зону причала не обходить.",
+  "pin": "Метка обозначает объект или участок площади/парка; фактический вход может находиться сбоку.",
+  "links": [
+   "https://www.tripadvisor.com/Attraction_Review-g187870-d9987749-Reviews-Campiello_Remer-Venice_Veneto.html"
+  ],
+  "acc": "area",
+  "gq": "Campiello Remer Venezia",
+  "status": "free",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 23,
+  "name": "Ponte di Rialto",
+  "lat": 45.43804,
+  "lng": 12.3359,
+  "cluster": "Риальто и Мираколи",
+  "cats": [
+   "photo"
+  ],
+  "indoor": 0,
+  "price": "Мост €0",
+  "addr": "Ponte di Rialto, Venezia, Italy",
+  "why": "Главный вид на Гранд-канал, который естественно попадает по пути. Посмотрите с моста и с соседней набережной. Сам мост не требует билета; это не обещание пустого места для фотографии.",
+  "time": "",
+  "caveat": "",
+  "pin": "",
+  "links": [
+   "https://www.cntraveler.com/shops/venice/mercato-di-rialto"
+  ],
+  "acc": "object",
+  "gq": "Ponte di Rialto",
+  "status": "free",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 24,
+  "name": "Арка у Aquila Nera",
+  "lat": 45.4374,
+  "lng": 12.3374,
+  "cluster": "Риальто и Мираколи",
+  "cats": [
+   "hidden",
+   "photo"
+  ],
+  "indoor": 0,
+  "price": "Уличный осмотр €0",
+  "addr": "Calle dell’Aquila Nera, San Marco, Venezia, Italy",
+  "why": "Тот самый кадр из вашего ролика: арка, вода и фасад напротив. Ориентир — переулок у Trattoria Aquila Nera рядом с Риальто. Карта ведёт к улице, не к гарантированному точному месту съёмки. Сверьте арку по вашему кадру.",
+  "time": "",
+  "caveat": "Геометка Instagram возле San Giovanni Evangelista неверна для этого ориентира. Помост используется лодками; не мешать посадке и не заходить в закрытые зоны.",
+  "pin": "Метка показывает переулок Calle dell’Aquila Nera. Точный помост из ролика не геодезически подтверждён: ищите арочный выход к воде, а не ресторанный стол.",
+  "links": [
+   "https://vie.openalfa.it/vie/calle-dell-aquila-nera-san-marco-venezia-murano-burano-venezia"
+  ],
+  "acc": "approx",
+  "gq": null,
+  "status": "free",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 25,
+  "name": "Palazzo Bembo",
+  "lat": 45.4370389,
+  "lng": 12.3350667,
+  "cluster": "Риальто и Мираколи",
+  "cats": [
+   "art",
+   "free"
+  ],
+  "indoor": 1,
+  "price": "Вход €0",
+  "addr": "Palazzo Bembo, Riva del Carbon 4793, Venezia, Italy",
+  "why": "Японские инсталляции, JoJo и окна на Гранд-канал. Personal Structures — отдельная бесплатная выставка, а не платные Giardini / Arsenale. Можно выбрать несколько залов вместо полного обхода.",
+  "time": "10:00–18:00 · вторник закрыто · до 22 ноября.",
+  "caveat": "1–2 ноября подходят; 3 ноября закрыто. Проверяйте вход в выставку, а не в отель с похожим названием.",
+  "pin": "",
+  "links": [
+   "https://mangaart.jp/exhibitions/ps2026-venice",
+   "https://brand.b-ownd.com/en/venice2026/"
+  ],
+  "acc": "object",
+  "gq": "Palazzo Bembo Venezia",
+  "status": "ok",
+  "checked": null,
+  "photo": null,
+  "days": {
+   "3": {
+    "s": "closed",
+    "t": "Вт закрыто"
+   },
+   "1": {
+    "s": "free",
+    "t": "10:00–18:00 · бесплатно"
+   },
+   "2": {
+    "s": "free",
+    "t": "10:00–18:00 · бесплатно"
+   }
+  }
+ },
+ {
+  "id": 26,
+  "name": "San Salvador · хор и орган",
+  "lat": 45.43669,
+  "lng": 12.33654,
+  "cluster": "Риальто и Мираколи",
+  "cats": [
+   "art",
+   "free"
+  ],
+  "indoor": 1,
+  "price": "€0",
+  "addr": "Chiesa di San Salvador, San Marco 4835, Venezia, Italy",
+  "why": "Спокойная живая музыка, если захочется сменить улицы на церковную акустику. Концерт Guillou Consort, орган Alessandro Perin. Это духовная музыка, не вечернее шоу. Можно оставить необязательным.",
+  "time": "1 ноября 2026 · начало 16:00.",
+  "caveat": "Количество мест и окончание программы не указаны. В церковь приходят слушать, а не на короткий фотозаход посреди исполнения.",
+  "pin": "",
+  "links": [
+   "https://www.guillouconsort.it/event/concerto-a-san-salvador-venezia/"
+  ],
+  "acc": "object",
+  "gq": "Chiesa di San Salvador Venezia",
+  "status": "ok",
+  "checked": null,
+  "photo": null,
+  "days": {
+   "1": {
+    "s": "only",
+    "t": "Концерт 16:00 · бесплатно"
+   }
+  }
+ },
+ {
+  "id": 27,
+  "name": "Cantina Do Spade",
+  "lat": 45.43918,
+  "lng": 12.33339,
+  "cluster": "Риальто и Мираколи",
+  "cats": [
+   "food"
+  ],
+  "indoor": 1,
+  "price": "План: €40–50",
+  "addr": "Cantina Do Spade, Calle Do Spade 859, Venezia, Italy",
+  "why": "Кандидат на один нормальный итальянский приём пищи вдвоём. В меню: bigoli €16, паста с чернилами каракатицы €17. Две пасты €33, напитки, вода и возможный coperto отдельно. Общая сумма — план, не фиксированный сет.",
+  "time": "Ежедневно 10:00–15:00 и 18:00–22:00.",
+  "caveat": "Сначала меню и доплаты, затем заказ. Возможна очередь; не оставлять единственным вариантом еды.",
+  "pin": "",
+  "links": [
+   "https://cantinadospade.com/menu/",
+   "https://www.tripadvisor.com/Restaurant_Review-g187870-d1034679-Reviews-Cantina_Do_Spade-Venice_Veneto.html"
+  ],
+  "acc": "object",
+  "gq": "Cantina Do Spade Venezia",
+  "status": "ok",
+  "checked": null,
+  "photo": null,
+  "days": {
+   "1": {
+    "s": "open",
+    "t": "10:00–15:00, 18:00–22:00"
+   },
+   "2": {
+    "s": "open",
+    "t": "10:00–15:00, 18:00–22:00"
+   }
+  }
+ },
+ {
+  "id": 28,
+  "name": "Traghetto Santa Sofia",
+  "lat": 45.440431,
+  "lng": 12.334764,
+  "cluster": "Риальто и Мираколи",
+  "cats": [
+   "water"
+  ],
+  "indoor": 0,
+  "price": "€4 / двоих",
+  "addr": "Traghetto Santa Sofia, Venezia, Italy",
+  "why": "Короткая гондольная переправа: Cannaregio ↔ рынок Риальто. Это пересечение Гранд-канала, не экскурсия. Нужны €2 с человека; мелкие наличные удобнее. Как стоять или садиться — подскажет гребец.",
+  "time": "Вс / праздники 09:00–18:00 · пн–пт 08:30–19:00.",
+  "caveat": "Базовый график опубликован городом, не обещание конкретной лодки. При остановке работы переходите через Риальто.",
+  "pin": "Метка — ориентир возле Foscari Palace / Campo Santa Sofia. Ищите указатель Traghetto на кромке канала; это не остановка вапоретто Ca’ d’Oro.",
+  "links": [
+   "https://www.comune.venezia.it/it/content/traghetti-parada"
+  ],
+  "acc": "approx",
+  "gq": "Traghetto Santa Sofia Venezia",
+  "status": "ok",
+  "checked": null,
+  "photo": null,
+  "days": {
+   "1": {
+    "s": "open",
+    "t": "09:00–18:00 · €2/чел"
+   },
+   "2": {
+    "s": "open",
+    "t": "08:30–19:00 · €2/чел"
+   }
+  }
+ },
+ {
+  "id": 29,
+  "name": "Рынок Риальто · не барахолка",
+  "lat": 45.43959,
+  "lng": 12.33458,
+  "cluster": "Риальто и Мираколи",
+  "cats": [
+   "market",
+   "food"
+  ],
+  "indoor": 0,
+  "price": "Осмотр €0",
+  "addr": "Mercato di Rialto, Venezia, Italy",
+  "why": "Продовольственные ряды: интересны, только когда действительно торгуют. Не заменяет RePulse. Рыбная часть не работает в воскресенье и понедельник. Во вторник возможна утром, но это уже ваш день вылета.",
+  "time": "Рыба: вт–сб утром · 1 и 2 ноября рыбные ряды закрыты.",
+  "caveat": "В понедельник могут работать овощные продавцы; праздничный состав торговли не подтверждён.",
+  "pin": "Метка обозначает объект или участок площади/парка; фактический вход может находиться сбоку.",
+  "links": [
+   "https://www.cntraveler.com/shops/venice/mercato-di-rialto"
+  ],
+  "acc": "area",
+  "gq": "Mercato di Rialto",
+  "status": "warn",
+  "checked": null,
+  "photo": null,
+  "days": {
+   "1": {
+    "s": "closed",
+    "t": "Рыбные ряды закрыты"
+   },
+   "2": {
+    "s": "warn",
+    "t": "Рыбы нет, овощи — может быть"
+   },
+   "3": {
+    "s": "open",
+    "t": "Утром рынок работает"
+   }
+  }
+ },
+ {
+  "id": 30,
+  "name": "Scala Contarini del Bovolo",
+  "lat": 45.43481,
+  "lng": 12.33455,
+  "cluster": "Сан-Марко · виды и крипта",
+  "cats": [
+   "hidden",
+   "photo"
+  ],
+  "indoor": 0,
+  "price": "Снаружи €0",
+  "addr": "Scala Contarini del Bovolo, San Marco 4297, Venezia, Italy",
+  "why": "Спиральная лестница в маленьком дворе — найти, посмотреть снизу и сфотографироваться. В базовом варианте — осмотр снаружи, без подъёма. Платный подъём выбирайте на месте по актуальной цене и очереди.",
+  "time": "",
+  "caveat": "Расписания подъёма в сторонних источниках расходятся. Доступ в двор может ограничиваться воротами; подъём не включён в бесплатный осмотр.",
+  "pin": "",
+  "links": [
+   "https://www.spottedbylocals.com/venice/scala-contarini-del-bovolo/"
+  ],
+  "acc": "object",
+  "gq": "Scala Contarini del Bovolo",
+  "status": "warn",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 31,
+  "name": "Piazza San Marco",
+  "lat": 45.43426,
+  "lng": 12.33851,
+  "cluster": "Сан-Марко · виды и крипта",
+  "cats": [
+   "photo"
+  ],
+  "indoor": 0,
+  "price": "Площадь €0",
+  "addr": "Piazza San Marco, Venezia, Italy",
+  "why": "Увидеть главный ансамбль города снаружи и пройти к большой воде. В этом путеводителе — площадь и фасады, без билетов в собор, дворец и колокольню. В дорогие кафе не обязательно заходить ради вида.",
+  "time": "",
+  "caveat": "При высокой воде низкие участки могут быть недоступны. Бесплатная площадь не означает бесплатный вход во все здания.",
+  "pin": "Метка обозначает объект или участок площади/парка; фактический вход может находиться сбоку.",
+  "links": [
+   "https://www.comune.venezia.it/it/content/murano-illumina-il-mondo-1"
+  ],
+  "acc": "area",
+  "gq": "Piazza San Marco",
+  "status": "free",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 32,
+  "name": "Murano illumina il mondo",
+  "lat": 45.4344,
+  "lng": 12.337989,
+  "cluster": "Сан-Марко · виды и крипта",
+  "cats": [
+   "art",
+   "free"
+  ],
+  "indoor": 0,
+  "price": "Уличный просмотр €0",
+  "addr": "Procuratie Vecchie, Piazza San Marco, Venezia, Italy",
+  "why": "Двенадцать авторских световых работ из муранского стекла под аркадами. Смотреть под аркадами Procuratie Vecchie. Это не поездка на остров Мурано и не платный мастер-класс.",
+  "time": "Выставка заканчивается 1 ноября 2026.",
+  "caveat": "Время окончания и демонтажа в последний день не опубликовано. Не переносить на 2 ноября.",
+  "pin": "Метка обозначает объект или участок площади/парка; фактический вход может находиться сбоку.",
+  "links": [
+   "https://www.comune.venezia.it/it/content/murano-illumina-il-mondo-1"
+  ],
+  "acc": "area",
+  "gq": "Procuratie Vecchie Venezia",
+  "status": "ok",
+  "checked": null,
+  "photo": null,
+  "days": {
+   "1": {
+    "s": "only",
+    "t": "Последний день выставки"
+   },
+   "2": {
+    "s": "closed",
+    "t": "Выставка закончилась"
+   },
+   "3": {
+    "s": "closed",
+    "t": "Выставка закончилась"
+   }
+  }
+ },
+ {
+  "id": 33,
+  "name": "Ponte della Paglia и Riva degli Schiavoni",
+  "lat": 45.43365,
+  "lng": 12.341,
+  "cluster": "Сан-Марко · виды и крипта",
+  "cats": [
+   "photo",
+   "water"
+  ],
+  "indoor": 0,
+  "price": "€0",
+  "addr": "Ponte della Paglia, Venezia, Italy",
+  "why": "Мост Вздохов снаружи, лодки и длинный открытый вид на лагуну. Можно продолжить по набережной в сторону Marinaressa. Для фотографий остановиться там, где не перекрываете поток людей.",
+  "time": "",
+  "caveat": "",
+  "pin": "",
+  "links": [
+   "https://www.veneziaunica.it/it/cosa-fare-a-venezia/itinerari/castello-arte-navale-e-tradizioni"
+  ],
+  "acc": "object",
+  "gq": "Ponte della Paglia Venezia",
+  "status": "free",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 34,
+  "name": "San Zaccaria · крипта",
+  "lat": 45.43471,
+  "lng": 12.3436,
+  "cluster": "Сан-Марко · виды и крипта",
+  "cats": [
+   "hidden"
+  ],
+  "indoor": 1,
+  "price": "Около €7 / двоих",
+  "addr": "Chiesa di San Zaccaria, Venezia, Italy",
+  "why": "Небольшое подземное помещение с колоннами и отражениями в воде. В отзывах билет в часовни и крипту — €3,50 с человека. Это маленькое пространство, не лабиринт тоннелей. Цена не является подтверждённым прайсом на день визита.",
+  "time": "По Tripadvisor: вс 16:00–18:00 · пн 10:00–12:00 и 16:00–18:00.",
+  "caveat": "До оплаты спросить, можно ли спуститься: при воде доступ бывает только до лестницы. Во время служб осмотр может быть ограничен.",
+  "pin": "",
+  "links": [
+   "https://www.tripadvisor.com/Attraction_Review-g187870-d243057-Reviews-Chiesa_di_San_Zaccaria-Venice_Veneto.html"
+  ],
+  "acc": "object",
+  "gq": "Chiesa di San Zaccaria Venezia",
+  "status": "ok",
+  "checked": null,
+  "photo": null,
+  "days": {
+   "1": {
+    "s": "warn",
+    "t": "16:00–18:00 (по отзывам)"
+   },
+   "2": {
+    "s": "warn",
+    "t": "10:00–12:00, 16:00–18:00 (по отзывам)"
+   }
+  }
+ },
+ {
+  "id": 35,
+  "name": "Traghetto Dogana · берег San Marco",
+  "lat": 45.4328,
+  "lng": 12.337,
+  "cluster": "Сан-Марко · виды и крипта",
+  "cats": [
+   "water"
+  ],
+  "indoor": 0,
+  "price": "€4 / двоих",
+  "addr": "Traghetto Dogana Vallaresso, Venezia, Italy",
+  "why": "Из района Vallaresso переправиться к Punta della Dogana. Связывает Сан-Марко с Дорсодуро по воде. В Google Maps выбирайте именно гондольную переправу; обычная остановка вапоретто рядом — другая услуга.",
+  "time": "Базовый график 09:00–18:00.",
+  "caveat": "Если переправа не работает, пеший обход идёт через мост Академии, а не вдоль воды напрямую.",
+  "pin": "Метка обозначает Calle Vallaresso. Пройдите к её выходу на воду и ищите Traghetto Dogana. Не путать с платной туристической гондолой.",
+  "links": [
+   "https://www.comune.venezia.it/it/content/traghetti-parada"
+  ],
+  "acc": "approx",
+  "gq": "Traghetto Dogana Venezia",
+  "status": "ok",
+  "checked": null,
+  "photo": null,
+  "days": {
+   "1": {
+    "s": "open",
+    "t": "≈09:00–18:00 · €2/чел"
+   },
+   "2": {
+    "s": "open",
+    "t": "≈09:00–18:00 · €2/чел"
+   }
+  }
+ },
+ {
+  "id": 36,
+  "name": "Ponte dei Conzafelzi · Palazzo Tetta",
+  "lat": 45.43835,
+  "lng": 12.34216,
+  "cluster": "Кастелло · дворы и Арсенал",
+  "cats": [
+   "photo"
+  ],
+  "indoor": 0,
+  "price": "€0",
+  "addr": "Ponte dei Conzafelzi, Venezia, Italy",
+  "why": "Дворец на развилке каналов: удобный короткий фотозаход. Для вида нужен мост, а не поиск входа во дворец. Внутреннее посещение здесь не запланировано.",
+  "time": "",
+  "caveat": "",
+  "pin": "",
+  "links": [
+   "https://www.veneziaunica.it/it/cosa-fare-a-venezia/itinerari/castello-arte-navale-e-tradizioni"
+  ],
+  "acc": "object",
+  "gq": "Ponte dei Conzafelzi Venezia",
+  "status": "free",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 37,
+  "name": "Libreria Acqua Alta",
+  "lat": 45.43806,
+  "lng": 12.34227,
+  "cluster": "Кастелло · дворы и Арсенал",
+  "cats": [
+   "market",
+   "hidden"
+  ],
+  "indoor": 1,
+  "price": "Вход €0",
+  "addr": "Libreria Acqua Alta, Calle Lunga Santa Maria Formosa 5176B, Venezia, Italy",
+  "why": "Книги в лодках, необычный интерьер и дворик из роликов. Это действующий магазин. Покупка необязательна; фотографии не должны мешать продавцам и покупателям.",
+  "time": "Сторонний ориентир 09:00–19:10; наружные зоны закрываются раньше.",
+  "caveat": "Точные праздничные часы и доступ во двор не подтверждены. При длинной очереди достаточно пройти дальше — рядом Tetta и Grimani.",
+  "pin": "",
+  "links": [
+   "https://www.localexperiences.online/en/venice/secret-places/",
+   "https://www.libreriacqualta.it/en/contacts/"
+  ],
+  "acc": "object",
+  "gq": "Libreria Acqua Alta Venezia",
+  "status": "warn",
+  "checked": null,
+  "photo": null,
+  "days": {
+   "1": {
+    "s": "warn",
+    "t": "≈09:00–19:10, праздник не подтверждён"
+   },
+   "2": {
+    "s": "open",
+    "t": "≈09:00–19:10"
+   }
+  }
+ },
+ {
+  "id": 38,
+  "name": "Museo di Palazzo Grimani",
+  "lat": 45.43685678044424,
+  "lng": 12.34204262495041,
+  "cluster": "Кастелло · дворы и Арсенал",
+  "cats": [
+   "art"
+  ],
+  "indoor": 1,
+  "price": "€0 только 1 ноября",
+  "addr": "Museo di Palazzo Grimani, Castello 4858, Venezia, Italy",
+  "why": "Исторические залы и Tribuna с античными скульптурами. Государственный музей у Santa Maria Formosa. 1 ноября — первое воскресенье месяца, бесплатный вход по программе Domenica al Museo.",
+  "time": "Вт–вс 10:00–19:00 · последний вход 18:00 · пн закрыто.",
+  "caveat": "Не путать с Palazzo Vendramin Grimani. 2 ноября закрыт; 3 ноября обычный платный день. На бесплатный вход возможна очередь.",
+  "pin": "",
+  "links": [
+   "https://museogrimani.cultura.gov.it/",
+   "https://www.museivenezia.it/musei-gratis-venezia/"
+  ],
+  "acc": "object",
+  "gq": "Museo di Palazzo Grimani",
+  "status": "ok",
+  "checked": null,
+  "photo": null,
+  "days": {
+   "1": {
+    "s": "free",
+    "t": "Бесплатно · 10:00–19:00, вход до 18:00"
+   },
+   "2": {
+    "s": "closed",
+    "t": "Пн закрыто"
+   },
+   "3": {
+    "s": "open",
+    "t": "10:00–19:00 · платно"
+   }
+  }
+ },
+ {
+  "id": 39,
+  "name": "Corte Nova · синий проход",
+  "lat": 45.437,
+  "lng": 12.346381,
+  "cluster": "Кастелло · дворы и Арсенал",
+  "cats": [
+   "hidden"
+  ],
+  "indoor": 0,
+  "price": "€0",
+  "addr": "Sotoportego de Corte Nova, Calle Zorzi, Castello, Venezia, Italy",
+  "why": "Найти проход-часовню с сине-золотым потолком и красным камнем. Нужен sotoportego между Calle Zorzi и Corte Nova в Castello, у Santa Giustina. Местная легенда связывает красный камень с остановившейся чумой; это легенда, не исторический факт.",
+  "time": "",
+  "caveat": "Не выбирать одноимённую Corte Nova в Cannaregio. Если навигатор показывает другой район, сверить название Calle Zorzi.",
+  "pin": "",
+  "links": [
+   "https://www.conoscerevenezia.it/?p=49667"
+  ],
+  "acc": "approx",
+  "gq": null,
+  "status": "warn",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 40,
+  "name": "San Francesco della Vigna · дворы",
+  "lat": 45.43822,
+  "lng": 12.34808,
+  "cluster": "Кастелло · дворы и Арсенал",
+  "cats": [
+   "hidden"
+  ],
+  "indoor": 0,
+  "price": "При открытом доступе €0",
+  "addr": "Chiesa di San Francesco della Vigna, Venezia, Italy",
+  "why": "Тихие аркады, старые стены и спокойная пауза среди города. Местная фотограф описывает монастырские дворы как место, куда приходит отдыхать с мужем. Для нас это необязательный короткий заход.",
+  "time": "Доступ во дворы на конкретные часы не подтверждён.",
+  "caveat": "Не путать со специальными платными посещениями виноградника. Закрытые двери и служебные зоны не обходить.",
+  "pin": "",
+  "links": [
+   "https://naturallyepicurean.substack.com/p/a-photographers-guide-to-the-city"
+  ],
+  "acc": "object",
+  "gq": "Chiesa di San Francesco della Vigna",
+  "status": "warn",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 41,
+  "name": "Celestia · наружная стена Арсенала",
+  "lat": 45.4378991,
+  "lng": 12.3496928,
+  "cluster": "Кастелло · дворы и Арсенал",
+  "cats": [
+   "hidden",
+   "water"
+  ],
+  "indoor": 0,
+  "price": "Общественный маршрут €0",
+  "addr": "Campo de la Celestia, Venezia, Italy",
+  "why": "Кирпичные стены верфи, узкая дорожка и открытая лагуна. Осматривать общественную наружную часть. Это промышленная атмосфера без обещания зайти в закрытые корпуса или платную Биеннале.",
+  "time": "",
+  "caveat": "На воде бывает ветрено; отдельные проходы могут перекрывать. Не планируйте свободный доступ во внутренний Арсенал.",
+  "pin": "Метка обозначает Campo de la Celestia. К наружной дорожке у стены Арсенала пройдите в сторону лагуны; внутренние корпуса не открыты свободно.",
+  "links": [
+   "https://www.veneziaunica.it/it/cosa-fare-a-venezia/itinerari/castello-arte-navale-e-tradizioni"
+  ],
+  "acc": "area",
+  "gq": "Campo de la Celestia Venezia",
+  "status": "free",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 42,
+  "name": "Rosa Salva · кофе и сладкое",
+  "lat": 45.43892,
+  "lng": 12.34175,
+  "cluster": "Кастелло · дворы и Арсенал",
+  "cats": [
+   "food"
+  ],
+  "indoor": 1,
+  "price": "План: €8–14",
+  "addr": "Rosa Salva, Campo Santi Giovanni e Paolo, Venezia, Italy",
+  "why": "Небольшая сладкая пауза возле Santi Giovanni e Paolo. Нужна точка на Campo SS. Giovanni e Paolo. Плановая сумма на двоих зависит от напитков и десертов; это не подтверждённое предложение.",
+  "time": "Обычный график точки 08:00–20:00.",
+  "caveat": "У стойки и за столиком условия могут отличаться. Сначала меню, особенно если хотите горячий шоколад и десерт.",
+  "pin": "",
+  "links": [
+   "https://rosasalva.it/it/locali-rosa-salva"
+  ],
+  "acc": "object",
+  "gq": "Rosa Salva Campo Santi Giovanni e Paolo",
+  "status": "ok",
+  "checked": null,
+  "photo": null,
+  "days": {
+   "1": {
+    "s": "warn",
+    "t": "обычно 08:00–20:00"
+   },
+   "2": {
+    "s": "open",
+    "t": "обычно 08:00–20:00"
+   }
+  }
+ },
+ {
+  "id": 43,
+  "name": "San Pietro di Castello",
+  "lat": 45.4347133,
+  "lng": 12.3590844,
+  "cluster": "Восток · Сан-Пьетро и парки",
+  "cats": [
+   "walk"
+  ],
+  "indoor": 0,
+  "price": "Снаружи €0",
+  "addr": "Campo San Piero de Casteo, Venezia, Italy",
+  "why": "Тихий восточный край города и место высадки со специальной DE. Гуляем по campo и берегам вокруг. Посещение самой базилики — отдельный вопрос, в бесплатную уличную точку не включено.",
+  "time": "Бесплатная DE действует только 31 октября — 2 ноября.",
+  "caveat": "",
+  "pin": "Метка обозначает площадь у церкви. Причал S. Pietro di Castello ищите по указателям; это не точка трапа.",
+  "links": [
+   "https://www.veneziaunica.it/it/cosa-fare-a-venezia/itinerari/castello-arte-navale-e-tradizioni",
+   "https://muoversi.venezia.it/it/content/commemorazione-dei-defunti-servizi-gratuiti-e-fermata-straordinaria-di-linea-13"
+  ],
+  "acc": "area",
+  "gq": "Basilica di San Pietro di Castello",
+  "status": "ok",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 44,
+  "name": "Campo Ruga и Fondamenta Sant’Anna",
+  "lat": 45.433776,
+  "lng": 12.357429,
+  "cluster": "Восток · Сан-Пьетро и парки",
+  "cats": [
+   "walk"
+  ],
+  "indoor": 0,
+  "price": "€0",
+  "addr": "Campo Ruga, Castello, Venezia, Italy",
+  "why": "Небольшие мосты и жилые каналы без отдельного аттракциона. Хороший переход от San Pietro к Via Garibaldi: можно сворачивать в открытые общественные переулки, не заходя в частные подъезды.",
+  "time": "",
+  "caveat": "",
+  "pin": "Метка обозначает объект или участок площади/парка; фактический вход может находиться сбоку.",
+  "links": [
+   "https://www.veneziaunica.it/it/cosa-fare-a-venezia/itinerari/castello-arte-navale-e-tradizioni"
+  ],
+  "acc": "area",
+  "gq": "Campo Ruga Venezia",
+  "status": "free",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 45,
+  "name": "Via Garibaldi",
+  "lat": 45.43225,
+  "lng": 12.35328,
+  "cluster": "Восток · Сан-Пьетро и парки",
+  "cats": [
+   "walk",
+   "food"
+  ],
+  "indoor": 0,
+  "price": "Улица €0",
+  "addr": "Via Giuseppe Garibaldi, Castello, Venezia, Italy",
+  "why": "Оживлённая районная улица: посмотреть магазины и выбрать еду по меню. Это место для свободного выбора, а не гарантированно дешёвое кафе. Усталость лучше лечить нормальной посадкой, а не ещё одной обязательной точкой.",
+  "time": "",
+  "caveat": "",
+  "pin": "Метка обозначает объект или участок площади/парка; фактический вход может находиться сбоку.",
+  "links": [
+   "https://www.veneziaunica.it/it/cosa-fare-a-venezia/itinerari/castello-arte-navale-e-tradizioni"
+  ],
+  "acc": "area",
+  "gq": "Via Giuseppe Garibaldi Venezia",
+  "status": "free",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 46,
+  "name": "Giardini della Marinaressa",
+  "lat": 45.4314603,
+  "lng": 12.3525968,
+  "cluster": "Восток · Сан-Пьетро и парки",
+  "cats": [
+   "art",
+   "free",
+   "nature"
+  ],
+  "indoor": 0,
+  "price": "Вход €0",
+  "addr": "Giardini della Marinaressa, Venezia, Italy",
+  "why": "Скульптуры под открытым небом прямо у лагуны. Бесплатная часть Personal Structures. Не путать с платными Giardini della Biennale, которые находятся дальше на восток.",
+  "time": "Выставочный ориентир 10:00–18:00 · до 22 ноября.",
+  "caveat": "После закрытия вход в сад может быть недоступен. Ветер и дождь делают этот пункт менее приятным.",
+  "pin": "Метка обозначает объект или участок площади/парка; фактический вход может находиться сбоку.",
+  "links": [
+   "https://www.clp1968.it/mostra/personal-structures-confluences/"
+  ],
+  "acc": "area",
+  "gq": "Giardini della Marinaressa",
+  "status": "ok",
+  "checked": null,
+  "photo": null,
+  "days": {
+   "1": {
+    "s": "free",
+    "t": "10:00–18:00 · бесплатно"
+   },
+   "2": {
+    "s": "free",
+    "t": "10:00–18:00 · бесплатно"
+   }
+  }
+ },
+ {
+  "id": 47,
+  "name": "Sant’Elena · Parco delle Rimembranze",
+  "lat": 45.42591,
+  "lng": 12.36116,
+  "cluster": "Восток · Сан-Пьетро и парки",
+  "cats": [
+   "nature"
+  ],
+  "indoor": 0,
+  "price": "€0",
+  "addr": "Parco delle Rimembranze, Sant’Elena, Venezia, Italy",
+  "why": "Сосны, скамейки и открытая вода для спокойной паузы вдвоём. Дополнительная петля дальше на восток от Via Garibaldi. Оставьте время и силы на возвращение; это не соседний двор с Риальто.",
+  "time": "Зимний ориентир парка 08:00–18:30.",
+  "caveat": "В плохую погоду лучше пропустить длинную открытую набережную. Отдельные проходы могут закрываться.",
+  "pin": "Метка обозначает объект или участок площади/парка; фактический вход может находиться сбоку.",
+  "links": [
+   "https://www.veneziaunica.it/it/cosa-fare-a-venezia/giardini-parchi-oasi-naturali/pineta-di-sant-elena"
+  ],
+  "acc": "area",
+  "gq": "Parco delle Rimembranze Sant Elena Venezia",
+  "status": "ok",
+  "checked": null,
+  "photo": null,
+  "days": {
+   "1": {
+    "s": "open",
+    "t": "08:00–18:30"
+   },
+   "2": {
+    "s": "open",
+    "t": "08:00–18:30"
+   }
+  }
+ },
+ {
+  "id": 48,
+  "name": "Campo Santa Margherita",
+  "lat": 45.43433,
+  "lng": 12.32375,
+  "cluster": "Дорсодуро · верфь и набережная",
+  "cats": [
+   "walk",
+   "food"
+  ],
+  "indoor": 0,
+  "price": "€0",
+  "addr": "Campo Santa Margherita, Venezia, Italy",
+  "why": "Площадь для перерыва, повседневной жизни и недорогой еды рядом. Это удобный узел между San Pantalon и San Barnaba, а не ещё одна обязательная фотоплощадь.",
+  "time": "",
+  "caveat": "",
+  "pin": "Метка обозначает объект или участок площади/парка; фактический вход может находиться сбоку.",
+  "links": [
+   "https://www.veneziaunica.it/it/cosa-fare-a-venezia/itinerari/dorsoduro-sestiere-d-arte"
+  ],
+  "acc": "area",
+  "gq": "Campo Santa Margherita",
+  "status": "free",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 49,
+  "name": "Pizza Al Volo",
+  "lat": 45.43426,
+  "lng": 12.3234,
+  "cluster": "Дорсодуро · верфь и набережная",
+  "cats": [
+   "food"
+  ],
+  "indoor": 0,
+  "price": "План: €10–16",
+  "addr": "Pizza Al Volo, Campo Santa Margherita 2944A, Venezia, Italy",
+  "why": "Пицца навынос: быстрый способ поесть без ресторанного чека. Сумма — план на двоих, зависит от заказа. Смотрите цены на витрине; полноценной посадки для отдыха не обещаем.",
+  "time": "По Tripadvisor ежедневно 11:00–02:00.",
+  "caveat": "Праздничные изменения возможны. Еду не стоит устраивать на ступенях памятников; найдите разрешённое место для перерыва.",
+  "pin": "",
+  "links": [
+   "https://www.tripadvisor.com/Restaurant_Review-g187870-d1466936-Reviews-Pizza_Al_Volo-Venice_Veneto.html"
+  ],
+  "acc": "object",
+  "gq": "Pizza Al Volo Venezia",
+  "status": "ok",
+  "checked": null,
+  "photo": null,
+  "days": {
+   "1": {
+    "s": "open",
+    "t": "11:00–02:00 (Tripadvisor)"
+   },
+   "2": {
+    "s": "open",
+    "t": "11:00–02:00"
+   }
+  }
+ },
+ {
+  "id": 50,
+  "name": "Ponte dei Pugni и San Barnaba",
+  "lat": 45.43316,
+  "lng": 12.32435,
+  "cluster": "Дорсодуро · верфь и набережная",
+  "cats": [
+   "walk"
+  ],
+  "indoor": 0,
+  "price": "€0",
+  "addr": "Ponte dei Pugni, Venezia, Italy",
+  "why": "Небольшой мост, канал и короткий переход между уютными площадями. По пути к San Trovaso. Любые работающие лавки и лодки рядом — бонус, а не обещанная программа.",
+  "time": "",
+  "caveat": "",
+  "pin": "",
+  "links": [
+   "https://www.veneziaunica.it/it/cosa-fare-a-venezia/itinerari/dorsoduro-sestiere-d-arte"
+  ],
+  "acc": "object",
+  "gq": "Ponte dei Pugni Venezia",
+  "status": "free",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 51,
+  "name": "Squero di San Trovaso · снаружи",
+  "lat": 45.43034,
+  "lng": 12.32586,
+  "cluster": "Дорсодуро · верфь и набережная",
+  "cats": [
+   "water",
+   "hidden"
+  ],
+  "indoor": 0,
+  "price": "Вид с берега €0",
+  "addr": "Squero di San Trovaso, Venezia, Italy",
+  "why": "Посмотреть на деревянные постройки и гондолы действующей верфи. Нужен вид с противоположной общественной набережной. Это не бесплатная экскурсия внутрь мастерской.",
+  "time": "",
+  "caveat": "Работу мастеров в праздник не гарантируем. Не заходить в рабочий двор и не мешать людям.",
+  "pin": "Координаты обозначают саму верфь. Смотреть нужно с общедоступной противоположной набережной Fondamenta Nani, не заходить на рабочую территорию.",
+  "links": [
+   "https://www.veneziaunica.it/it/cosa-fare-a-venezia/itinerari/dorsoduro-sestiere-d-arte"
+  ],
+  "acc": "object",
+  "gq": "Squero di San Trovaso",
+  "status": "warn",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 52,
+  "name": "Osteria Al Squero",
+  "lat": 45.4301,
+  "lng": 12.32616,
+  "cluster": "Дорсодуро · верфь и набережная",
+  "cats": [
+   "food"
+  ],
+  "indoor": 1,
+  "price": "План: €15–25",
+  "addr": "Osteria Al Squero, Dorsoduro 943, Venezia, Italy",
+  "why": "Чиккетти рядом с видом на верфь — по желанию вместо полноценного обеда. Ориентир суммы на двоих, не фиксированный сет. Маленькие закуски могут незаметно набрать ресторанный чек.",
+  "time": "Часы на конкретный день сверить; понедельник заявлялся 10:00–21:00.",
+  "caveat": "Не рассчитывать на долгую посадку. При очереди есть пицца у Santa Margherita или другие места по текущему меню.",
+  "pin": "",
+  "links": [
+   "https://www.alsquero.it/"
+  ],
+  "acc": "object",
+  "gq": "Osteria Al Squero Venezia",
+  "status": "warn",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 53,
+  "name": "Ponte dell’Accademia",
+  "lat": 45.43166,
+  "lng": 12.32891,
+  "cluster": "Дорсодуро · верфь и набережная",
+  "cats": [
+   "photo"
+  ],
+  "indoor": 0,
+  "price": "€0",
+  "addr": "Ponte dell’Accademia, Venezia, Italy",
+  "why": "Вид по Гранд-каналу в сторону Salute и переход в район San Marco. Фототочка на обычном пешеходном мосту. Не требует музейного билета и не зависит от работы галереи.",
+  "time": "",
+  "caveat": "",
+  "pin": "",
+  "links": [
+   "https://www.veneziaunica.it/it/cosa-fare-a-venezia/itinerari/dorsoduro-sestiere-d-arte"
+  ],
+  "acc": "object",
+  "gq": "Ponte dell'Accademia",
+  "status": "free",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 54,
+  "name": "Gallerie dell’Accademia",
+  "lat": 45.43137,
+  "lng": 12.32809,
+  "cluster": "Дорсодуро · верфь и набережная",
+  "cats": [
+   "art"
+  ],
+  "indoor": 1,
+  "price": "€0 только 1 ноября",
+  "addr": "Gallerie dell’Accademia, Dorsoduro 1050, Venezia, Italy",
+  "why": "Классическая живопись, когда хочется искусства или укрыться от дождя. 1 ноября 2026 прямо указано бесплатным днём. Брони на бесплатный вход нет; вход по очереди. Не обязательно обходить музей целиком.",
+  "time": "1 ноября 09:00–19:00 · вход до 18:00.",
+  "caveat": "Не переносить бесплатность на 2–3 ноября. В остальные дни обычный билет €15 с человека; режим понедельника отдельно не подтверждён.",
+  "pin": "",
+  "links": [
+   "https://www.gallerieaccademia.it/visita/orari-e-biglietti/"
+  ],
+  "acc": "object",
+  "gq": "Gallerie dell'Accademia",
+  "status": "warn",
+  "checked": null,
+  "photo": null,
+  "days": {
+   "1": {
+    "s": "free",
+    "t": "Бесплатно · 09:00–19:00, вход до 18:00"
+   },
+   "2": {
+    "s": "warn",
+    "t": "Платно €15/чел · режим пн не подтверждён"
+   }
+  }
+ },
+ {
+  "id": 55,
+  "name": "Zattere",
+  "lat": 45.429507,
+  "lng": 12.324308,
+  "cluster": "Дорсодуро · верфь и набережная",
+  "cats": [
+   "photo",
+   "water"
+  ],
+  "indoor": 0,
+  "price": "€0",
+  "addr": "Fondamenta Zattere ai Gesuati, Venezia, Italy",
+  "why": "Длинная набережная у большой воды: простор, лодки и фотографии. Можно идти к Punta della Dogana или, наоборот, к тихому западному краю. Выбор зависит от того, где хотите закончить прогулку.",
+  "time": "",
+  "caveat": "При сильном ветре это открытый участок. Не нужно проходить всю набережную ради галочки.",
+  "pin": "Метка обозначает объект или участок площади/парка; фактический вход может находиться сбоку.",
+  "links": [
+   "https://naturallyepicurean.substack.com/p/a-photographers-guide-to-the-city"
+  ],
+  "acc": "area",
+  "gq": "Zattere Venezia",
+  "status": "free",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 56,
+  "name": "Santa Maria della Salute · снаружи",
+  "lat": 45.43057,
+  "lng": 12.33472,
+  "cluster": "Дорсодуро · верфь и набережная",
+  "cats": [
+   "photo"
+  ],
+  "indoor": 0,
+  "price": "Снаружи €0",
+  "addr": "Basilica di Santa Maria della Salute, Venezia, Italy",
+  "why": "Посмотреть купол и фасад со стороны набережной и узких улочек. Бесплатная карточка относится к внешнему виду. Ризница, выставки и отдельные внутренние пространства не включены.",
+  "time": "",
+  "caveat": "",
+  "pin": "",
+  "links": [
+   "https://naturallyepicurean.substack.com/p/a-photographers-guide-to-the-city",
+   "https://www.veneziaunica.it/it/cosa-fare-a-venezia/itinerari/dorsoduro-sestiere-d-arte"
+  ],
+  "acc": "object",
+  "gq": "Basilica di Santa Maria della Salute",
+  "status": "free",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 57,
+  "name": "Punta della Dogana · мыс",
+  "lat": 45.43095,
+  "lng": 12.33709,
+  "cluster": "Дорсодуро · верфь и набережная",
+  "cats": [
+   "photo",
+   "water"
+  ],
+  "indoor": 0,
+  "price": "Набережная €0",
+  "addr": "Punta della Dogana, Venezia, Italy",
+  "why": "Открытый вид на воду между San Marco и Giudecca. Здесь имеется в виду внешняя набережная, не платная художественная выставка внутри здания. Можно закончить прогулку короткой переправой Dogana, если она работает.",
+  "time": "",
+  "caveat": "У воды нет ощущения тёплого закрытого дворика; в непогоду не задерживаться. На противоположный берег не пройти по прямой.",
+  "pin": "",
+  "links": [
+   "https://www.veneziaunica.it/it/cosa-fare-a-venezia/itinerari/dorsoduro-sestiere-d-arte"
+  ],
+  "acc": "object",
+  "gq": "Punta della Dogana",
+  "status": "free",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 58,
+  "name": "Angelo Raffaele → San Nicolò dei Mendicoli",
+  "lat": 45.4325,
+  "lng": 12.3159,
+  "cluster": "Дорсодуро · верфь и набережная",
+  "cats": [
+   "walk"
+  ],
+  "indoor": 0,
+  "price": "Улица €0",
+  "addr": "Chiesa di San Nicolò dei Mendicoli, Venezia, Italy",
+  "why": "Спокойный западный Дорсодуро: старые дома и каналы вне главного потока. Связка рекомендована местной фотографом для неспешной прогулки. Внутрь церкви заходить только при открытом доступе.",
+  "time": "",
+  "caveat": "Это продолжение на запад от Zattere, не короткая остановка у Dogana. Усталость — повод сократить петлю. Это НЕ храм с мощами Николая: нужный храм находится на Лидо.",
+  "pin": "",
+  "links": [
+   "https://naturallyepicurean.substack.com/p/a-photographers-guide-to-the-city"
+  ],
+  "acc": "object",
+  "gq": "Chiesa di San Nicolò dei Mendicoli",
+  "status": "free",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 59,
+  "name": "Santa Marta",
+  "lat": 45.4343,
+  "lng": 12.3134,
+  "cluster": "Дорсодуро · верфь и набережная",
+  "cats": [
+   "walk",
+   "hidden"
+  ],
+  "indoor": 0,
+  "price": "€0",
+  "addr": "Campo Santa Marta, Venezia, Italy",
+  "why": "Жилой и бывший портовый край вместо ещё одной парадной площади. Можно совместить с San Nicolò и постепенно вернуться к Piazzale Roma. Закрытые портовые и служебные территории не входят в маршрут.",
+  "time": "",
+  "caveat": "",
+  "pin": "Метка обозначает объект или участок площади/парка; фактический вход может находиться сбоку.",
+  "links": [
+   "https://naturallyepicurean.substack.com/p/a-photographers-guide-to-the-city"
+  ],
+  "acc": "area",
+  "gq": "Campo Santa Marta Venezia",
+  "status": "free",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ },
+ {
+  "id": 60,
+  "name": "San Michele · островное кладбище",
+  "lat": 45.446979999999996,
+  "lng": 12.346300000000001,
+  "cluster": "Сан-Микеле · только на лодке",
+  "cats": [
+   "walk",
+   "nature"
+  ],
+  "indoor": 0,
+  "price": "Вход €0",
+  "addr": "Cimitero di San Michele, Venezia, Italy",
+  "why": "Кипарисы, кирпичные стены и короткая прогулка между двумя поездками на лодке. Не главная цель поездки и не заброшка. 1–2 ноября здесь поминальные дни: спокойно гулять, не мешать семьям, без постановочных фото на могилах.",
+  "time": "30 октября — 2 ноября: 07:30–17:00.",
+  "caveat": "Пешего мостика в город нет. Заранее сверяйте обратную DE; 3 ноября бесплатная акция уже закончилась.",
+  "pin": "Метка обозначает объект или участок площади/парка; фактический вход может находиться сбоку.",
+  "links": [
+   "https://veneto.piazzainfesta.it/en/venezia/allerseelen-2026-98791",
+   "https://muoversi.venezia.it/it/content/commemorazione-dei-defunti-servizi-gratuiti-e-fermata-straordinaria-di-linea-13"
+  ],
+  "acc": "area",
+  "gq": "Cimitero di San Michele Venezia",
+  "status": "ok",
+  "checked": null,
+  "photo": null,
+  "days": {
+   "1": {
+    "s": "open",
+    "t": "07:30–17:00 · бесплатная лодка DE"
+   },
+   "2": {
+    "s": "open",
+    "t": "07:30–17:00 · бесплатная лодка DE"
+   },
+   "31": {
+    "s": "open",
+    "t": "07:30–17:00 · бесплатная лодка DE"
+   },
+   "3": {
+    "s": "warn",
+    "t": "Бесплатных лодок уже нет"
+   }
+  }
+ },
+ {
+  "id": 61,
+  "name": "Cimitero A · посадка DE в Кастелло",
+  "lat": 45.44685,
+  "lng": 12.34704,
+  "cluster": "Сан-Микеле · только на лодке",
+  "cats": [
+   "water"
+  ],
+  "indoor": 0,
+  "price": "€0 в даты акции",
+  "addr": "Cimitero vaporetto stop, San Michele, Venezia, Italy",
+  "why": "С острова продолжить к San Pietro di Castello, а не возвращаться тем же путём. На месте нужен причал A и рейс DE в сторону San Pietro / Lido. Карта показывает узел Cimitero, букву сверять на указателе.",
+  "time": "31.10–02.11: 10:40, 11:40, 12:40, 14:40, 15:40, 16:40.",
+  "caveat": "В расписании нет рейса в 13:40. Обычная линия 13 не объявлена бесплатной.",
+  "pin": "На карте показан остров, а не точная дверь причала A: координаты причала отдельно не подтверждены. После высадки ориентируйтесь по буквам A/B и табло. Google Maps открывается поиском Cimitero vaporetto stop.",
+  "links": [
+   "https://muoversi.venezia.it/it/content/commemorazione-dei-defunti-servizi-gratuiti-e-fermata-straordinaria-di-linea-13"
+  ],
+  "acc": "approx",
+  "gq": null,
+  "status": "ok",
+  "checked": null,
+  "photo": null,
+  "days": {
+   "1": {
+    "s": "free",
+    "t": "DE: 10:40 11:40 12:40 14:40 15:40 16:40"
+   },
+   "2": {
+    "s": "free",
+    "t": "DE: 10:40 11:40 12:40 14:40 15:40 16:40"
+   },
+   "31": {
+    "s": "free",
+    "t": "DE: 10:40 11:40 12:40 14:40 15:40 16:40"
+   },
+   "3": {
+    "s": "closed",
+    "t": "Акция закончилась"
+   }
+  }
+ },
+ {
+  "id": 62,
+  "name": "Fondamente Nove B · короткая DE",
+  "lat": 45.44317,
+  "lng": 12.34066,
+  "cluster": "Сан-Микеле · только на лодке",
+  "cats": [
+   "water"
+  ],
+  "indoor": 0,
+  "price": "€0 в даты акции",
+  "addr": "Fondamente Nove vaporetto stop, Venezia, Italy",
+  "why": "Самая короткая связка город ↔ Сан-Микеле, когда не нужен длинный маршрут. Сам причал находится в городе, в северном Каннареджо. Здесь он вынесен в группу острова, чтобы видеть связь по воде.",
+  "time": "31.10–02.11: из F.te Nove B 09:05–17:05, каждые 20 минут.",
+  "caveat": "Обратно Cimitero B: 09:15–17:15, каждые 20 минут. Проверять табло и именно обозначение DE.",
+  "pin": "",
+  "links": [
+   "https://muoversi.venezia.it/it/content/commemorazione-dei-defunti-servizi-gratuiti-e-fermata-straordinaria-di-linea-13"
+  ],
+  "acc": "object",
+  "gq": "Fondamente Nove vaporetto",
+  "status": "ok",
+  "checked": null,
+  "photo": null,
+  "days": {
+   "1": {
+    "s": "free",
+    "t": "DE каждые 20 мин 09:05–17:05"
+   },
+   "2": {
+    "s": "free",
+    "t": "DE каждые 20 мин 09:05–17:05"
+   },
+   "31": {
+    "s": "free",
+    "t": "DE каждые 20 мин 09:05–17:05"
+   },
+   "3": {
+    "s": "closed",
+    "t": "Акция закончилась"
+   }
+  }
+ },
+ {
+  "id": 63,
+  "name": "Мощи святого Николая · San Nicolò al Lido",
+  "lat": 45.42793,
+  "lng": 12.38085,
+  "cluster": "Лидо · мощи святого Николая",
+  "cats": [
+   "saint"
+  ],
+  "indoor": 1,
+  "price": "Доступ к святыне уточнить в приходе",
+  "addr": "Chiesa di San Nicolò al Lido, Riviera San Nicolò 26, 30126 Venezia, Italy",
+  "why": "Важная личная остановка: храм с частью мощей святого Николая на отдельном острове Лидо. Именно San Nicolò al Lido, не San Nicolò dei Mendicoli в Дорсодуро. Посетители пишут, что к реликвиям за алтарём проводили по просьбе. Это не гарантирует возможность физически прикоснуться к мощам или раке: заранее уточнить у служителя. От Lido S.M.E. к храму можно идти вдоль набережной; маршрут открыть кнопкой ниже.",
+  "time": "Публикуемый режим посещения: пн–сб 10:30–17:00. Воскресная месса 11:15. Доступ именно к мощам 1–2 ноября отдельно не подтверждён",
+  "caveat": "До поездки на остров позвонить +39 041 5260241. «Vorrei venerare le reliquie di San Nicola. È possibile avvicinarsi al reliquiario? Quando posso venire il primo o il due novembre?» — Хочу поклониться мощам святого Николая. Можно ли подойти к раке и когда приехать 1 или 2 ноября?",
+  "pin": "",
+  "links": [
+   "https://mapcarta.com/W140950703"
+  ],
+  "acc": "object",
+  "gq": "Chiesa di San Nicolò al Lido",
+  "status": "warn",
+  "checked": null,
+  "photo": null,
+  "days": {
+   "1": {
+    "s": "warn",
+    "t": "Вс: месса 11:15; посещение не подтверждено"
+   },
+   "2": {
+    "s": "open",
+    "t": "Пн–сб 10:30–17:00 (публикуемый режим)"
+   },
+   "3": {
+    "s": "open",
+    "t": "Пн–сб 10:30–17:00"
+   }
+  }
+ },
+ {
+  "id": 64,
+  "name": "Lido S.M.E. E · бесплатная DE",
+  "lat": 45.41737,
+  "lng": 12.36751,
+  "cluster": "Лидо · мощи святого Николая",
+  "cats": [
+   "water"
+  ],
+  "indoor": 0,
+  "price": "€0 на DE 31.10–02.11",
+  "addr": "Lido Santa Maria Elisabetta E, Venezia, Italy",
+  "why": "Причал бесплатного рейса к Сан-Микеле через San Pietro и Celestia. Отсюда можно идти к храму на Лидо. DE с Cimitero A приходит на Lido S.M.E. через San Pietro di Castello. Из Cimitero A: 10:40, 11:40, 12:40, 14:40, 15:40, 16:40. Время прибытия на Лидо в объявлении не указано. Обычные линии не бесплатны.",
+  "time": "Из Lido S.M.E. E: 10:10, 11:10, 12:10, 14:10, 15:10, 16:10. Только 31 октября – 2 ноября 2026",
+  "caveat": "Это S.M.E., а не San Nicolò. К храму ещё идти. Последняя опубликованная бесплатная DE обратно 16:10; обычный вапоретто после неё оплачивается. Перед посадкой проверить табло и буквенный причал.",
+  "pin": "",
+  "links": [
+   "https://mapcarta.com/N4212293011"
+  ],
+  "acc": "object",
+  "gq": "Lido Santa Maria Elisabetta vaporetto",
+  "status": "warn",
+  "checked": null,
+  "photo": null,
+  "days": {
+   "1": {
+    "s": "free",
+    "t": "DE от Лидо: 10:10 11:10 12:10 14:10 15:10 16:10"
+   },
+   "2": {
+    "s": "free",
+    "t": "DE от Лидо: 10:10 11:10 12:10 14:10 15:10 16:10"
+   },
+   "31": {
+    "s": "free",
+    "t": "DE от Лидо: 10:10 11:10 12:10 14:10 15:10 16:10"
+   },
+   "3": {
+    "s": "closed",
+    "t": "Акция закончилась"
+   }
+  }
+ },
+ {
+  "id": 65,
+  "name": "Lido San Nicolò · другой причал",
+  "lat": 45.42618,
+  "lng": 12.37849,
+  "cluster": "Лидо · мощи святого Николая",
+  "cats": [
+   "water"
+  ],
+  "indoor": 0,
+  "price": "Тариф и маршрут проверить",
+  "addr": "Lido San Nicolo ferry terminal, Venezia, Italy",
+  "why": "Ближе к храму, но это НЕ причал прибытия бесплатной DE из нашего плана. Ориентир, чтобы не путать два места посадки на Лидо. Для нашего бесплатного рейса использовать Lido Santa Maria Elisabetta. Поездка через San Nicolò требует отдельной проверки подходящей линии.",
+  "time": "По расписанию выбранной линии.",
+  "caveat": "Не планируйте DE от этого причала: в объявлении указан Lido S.M.E. E.",
+  "pin": "",
+  "links": [
+   "https://mapcarta.com/N27241169"
+  ],
+  "acc": "area",
+  "gq": "Lido San Nicolò ferry",
+  "status": "ok",
+  "checked": null,
+  "photo": null,
+  "days": {}
+ }
+]
